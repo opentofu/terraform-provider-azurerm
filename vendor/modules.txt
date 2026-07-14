@@ -7,7 +7,6 @@ github.com/Azure/azure-sdk-for-go/services/cdn/mgmt/2020-09-01/cdn
 github.com/Azure/azure-sdk-for-go/services/cdn/mgmt/2021-06-01/cdn
 github.com/Azure/azure-sdk-for-go/services/preview/resources/mgmt/2021-06-01-preview/policy
 github.com/Azure/azure-sdk-for-go/services/preview/security/mgmt/v3.0/security
-github.com/Azure/azure-sdk-for-go/services/preview/securityinsight/mgmt/2021-09-01-preview/securityinsight
 github.com/Azure/azure-sdk-for-go/services/preview/sql/mgmt/v5.0/sql
 github.com/Azure/azure-sdk-for-go/services/preview/synapse/mgmt/v2.0/synapse
 github.com/Azure/azure-sdk-for-go/services/recoveryservices/mgmt/2018-07-10/siterecovery
@@ -1112,7 +1111,11 @@ github.com/hashicorp/go-azure-sdk/resource-manager/security/2022-05-01/settings
 github.com/hashicorp/go-azure-sdk/resource-manager/security/2023-01-01/pricings
 github.com/hashicorp/go-azure-sdk/resource-manager/security/2023-05-01/servervulnerabilityassessmentssettings
 github.com/hashicorp/go-azure-sdk/resource-manager/security/2025-06-01/defenderforstorage
+github.com/hashicorp/go-azure-sdk/resource-manager/securityinsights/2022-10-01-preview/alertruletemplates
+github.com/hashicorp/go-azure-sdk/resource-manager/securityinsights/2022-10-01-preview/dataconnectors
 github.com/hashicorp/go-azure-sdk/resource-manager/securityinsights/2022-10-01-preview/metadata
+github.com/hashicorp/go-azure-sdk/resource-manager/securityinsights/2022-10-01-preview/securitymlanalyticssettings
+github.com/hashicorp/go-azure-sdk/resource-manager/securityinsights/2022-10-01-preview/threatintelligence
 github.com/hashicorp/go-azure-sdk/resource-manager/securityinsights/2022-11-01/sentinelonboardingstates
 github.com/hashicorp/go-azure-sdk/resource-manager/securityinsights/2022-11-01/watchlistitems
 github.com/hashicorp/go-azure-sdk/resource-manager/securityinsights/2022-11-01/watchlists
@@ -1559,7 +1562,6 @@ github.com/jackofallops/kermit/sdk/datafactory/2018-06-01/datafactory
 github.com/jackofallops/kermit/sdk/iotcentral/2022-10-31-preview/iotcentral
 github.com/jackofallops/kermit/sdk/iothub/2022-04-30-preview/iothub
 github.com/jackofallops/kermit/sdk/keyvault/7.4/keyvault
-github.com/jackofallops/kermit/sdk/securityinsights/2022-10-01-preview/securityinsights
 github.com/jackofallops/kermit/sdk/synapse/2020-08-01-preview/synapse
 github.com/jackofallops/kermit/sdk/synapse/2021-06-01-preview/synapse
 github.com/jackofallops/kermit/version
