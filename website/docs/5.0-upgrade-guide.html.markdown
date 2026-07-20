@@ -610,6 +610,10 @@ use computed cross-resource references for key arguments.
 * The deprecated `site_config.public_network_access_enabled` property has been removed and superseded by the `public_network_access` property.
 * The `site_config.scm_min_tls_version` property no longer accepts `1.0` or `1.1` as a value.
 
+### `azurerm_maintenance_assignment_virtual_machine_scale_set`
+
+* The `virtual_machine_scale_set_id` property is no longer case-insensitive.
+
 ### `azurerm_monitor_aad_diagnostic_setting`
 
 * The deprecated `enabled_log.retention_policy` block has been removed.
