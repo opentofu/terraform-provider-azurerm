@@ -448,6 +448,7 @@ use computed cross-resource references for key arguments.
 ### `azurerm_dashboard_grafana`
 
 * The deprecated `Essential` value for the `sku` property has been removed.
+* The `grafana_major_version` property no longer accepts `11` as a value.
 
 ### `azurerm_data_factory_integration_runtime_self_hosted`
 
